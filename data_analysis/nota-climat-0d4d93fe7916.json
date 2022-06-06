@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nota-climat",
+  "private_key_id": "0d4d93fe791656d1f2766df90be9e9a3d95460ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXJuxytrsGvhvc\nE0oxDRImEf2baj8IVZvXxFG1Juy8VatVXQLIWcRO7E6a2CG/cS3QxIgjBIG4rhtd\nLrDYQAqOMpodzFNeT6dmKTXZxxVb6zY2FtF9CDAWokSr7m5jDlF62GYPBzyWu+7l\nDoutI4ZpnBeKWZ7eiaLpkSDIswwaFQWMU3gt+TunqSRHbIGyWeL795/KIxhBvHEC\n1X7e4int5kRGeMCpcn54dNg9KdtIz1dfjUkBcaYt1trRU4C+ZkeyLLvf12gLKORr\nJfqNrdmcVC7/GarAdAkTeiEWpDvXTG3qo6kJRcKu/BePjEiJASIci5rqyR9riuaI\n5yXksruBAgMBAAECggEAEG5P7r++wKK4MZS75cLM0cGhPBybwdgDNbx8FgFSDmkQ\n/m8QHIpm5MjFr18bpWLJabPWNARLO7GwJ3wqB4qdUHbfZP+EooXDJepd6xC8BCl4\nqP7oV+X6IEO/IPeCyBbS3v6YyD0aUNfDcOKYvBdWsbKg+85L5FdkPm1NzzNozImI\nszAh5kpOkPqlOCKw4oche1cM9WetuxT0IYvZq3GdyoeVBkOfZbF33q+qGmRTEJZq\nWZAITzjabgjohkBtmYwIOtZJ0C8k0H/Jgp+U/bVLnbrNt+p3cgRKHtKboRQCLoAi\n2cvRyOfRxut+10zv1Q/k2ZTs5lFK4kMvfixX0zMrnwKBgQDHDKtFpD6+8e4o6uzd\nHMxgjhWsimL0rHsL3ohXa5XLYbHrkX+e0Vma1U7XnA2s0/4vH76WxsmltsZhL8dL\ntmxscZRGSWiha5ub95OHZLYviPEIYMhWh2fuiL9MxcjqO3O/TD3EPLgOrwArJvsh\neCf1fWOAYzjK1x60Vc8ghmXEawKBgQDCZgSj+n//aN2rRzqYTgsibrnUwraR1lTS\nXoh8QxgyV/R4yiCFpsnhRy+g3PX3maZtjH6uhM5nYlkkwU8f6KkmkZonoTbnjTjN\nQT4/DqdHv1KRtLdF2AXgTQFBe5PLdGpVhEq07USI7i5S0+jwzjNXiKbtbfpUGsui\nORa3JoHawwKBgG2A5MBdST+WrOTJySEjdLQxtm7DewkL0m2HMQ6W20OWLWFhHApt\nNZRegQ9QhJ1tysp19k3QcqK92Iki1csrQp6uJVo9jFgxcNvu6bR0jV29QozPYado\nup6ZkFRWAuAJcPXupZRNqxw43ijfOw0Ao0sEfjblXxsIGZYwFtDX3yidAoGAEWir\nb7fmMIxGlakaUTtj+eBqmegaC3NjQzeeB2rGxvNjfFG1meJ238rNNB21lUfYRKU5\nTw2rokyHaSg6msPuKfsOEBB65z+ZX6BBH8qDJoS2sz+4zfNri0u6GhAkCytQvnnL\naup4ob6avWYmzTHaHTOqp0abDV8c71kndJ1pMZsCgYAs5s7bctyz5VznFimGpFZ1\nJKDWA0g5336+yaQDgfZCWCpFdP4iToR8NyyPdm7/m0LHyVcaq7q877B3euKZ2kyD\nk8IJVEunbFzjs0lecuqJsnyqrjhdk3iRcmbHE1Pc+bMm9tr/m4bDFr1IU79RlcOB\nbZmxDsDQNETD9fQVuWOOoA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-nota-climat@nota-climat.iam.gserviceaccount.com",
+  "client_id": "118154773008102233857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-nota-climat%40nota-climat.iam.gserviceaccount.com"
+}
